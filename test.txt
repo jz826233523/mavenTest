@@ -8,4 +8,8 @@ local
 remote2
 rrr
 llll
+<<<<<<< Updated upstream
 777777777
+=======
+88888888
+>>>>>>> Stashed changes
