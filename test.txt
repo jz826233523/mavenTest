@@ -7,7 +7,4 @@ edit
 local
 remote2
 rrr
-<<<<<<< HEAD
 llll
-=======
->>>>>>> ce0200ead49ab6e9c4127ac4743ad3769e87dafc
